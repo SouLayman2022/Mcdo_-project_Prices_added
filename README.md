@@ -1,8 +1,9 @@
 # Mcdo_-project_Prices_added
 
-# MacDonald's nutrition score
-
-<img src="mcdo_pic.jpeg" alt="Image Description" style="width: 1080px; height: auto;">
+<div style='text-align:center'> 
+  <span style="color: #6c3483; font-size:60px">MacDonald's nutrition score</span>
+  <img src="mcdo_pic.jpeg" alt="Image Description" style="width: 1080px; height: auto;">
+</div>
 
 ## Introduction :
 - Macdonad is a large fast food retaurent from usa, i guess you already know that 😉
