@@ -11,6 +11,7 @@
 - link to kaggle datset : https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
 - the csv was sourced from Kaggle, however i have added a new column called "Prices" that was scraped from a bunch of websites that offres mcdo meals prices, so the data is similar to a real world scenario where you will have wrong values, wrong type and worng formatting
 - refer to folder scrapping to find data from websites with respective links in the python script's files
+- link to scrapped files on GitHub : https://github.com/SouLayman2022/Mcdo_-project_Prices_added/tree/f75c9725bf8d7a758e91a62c7c674da3c2d7ada2/Scrapping
 - infos about the file : 
     - 24 columns excluding index
     - 363 rows
