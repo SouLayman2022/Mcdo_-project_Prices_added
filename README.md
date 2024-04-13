@@ -22,3 +22,4 @@
     - all clos are float64/ int64 except first 4 cols : Category, Item, Prices, Serving Size
 - lastely i m an undergrad so take it easy on me, you might find some errors, misinterpretion and wrong
   implementation, as i m still learning
+- check my portfolio here : https://soulayman2022.github.io/Data_Scientist_Portfolio/
